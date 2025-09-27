@@ -6,8 +6,7 @@ title: Tracking Evolving AI and Compute
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg
-excerpt: >
-  Uniting Models, Algorithms, and System Innovators with Top-Down Evolutionary Benchmarks. 
+excerpt:  Uniting Models, Algorithms, and System Innovators with Top-Down Evolutionary Benchmarks.
 
 feature_row:
   - image_path: /assets/images/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg
