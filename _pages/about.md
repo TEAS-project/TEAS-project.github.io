@@ -1,10 +1,15 @@
 ---
 permalink: /about/
 title: "About"
-layout: "title-page"
+layout: "categories"
 ---
 
+### What is TEAC?
 
-Some things about this project.
+
+### What are the objectives of the project?
+
+
+### Who are we supported by?
 
 

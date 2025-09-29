@@ -1,7 +1,7 @@
 ---
-permalink: /categories/hardware
-title: "Hardware"
-layout: title-page
+permalink: /hardware/
+title: "\nHardware"
+layout: categories
 ---
 
 Page under construction.

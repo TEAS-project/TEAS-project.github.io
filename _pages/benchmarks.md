@@ -1,7 +1,7 @@
 ---
-permalink: /categories/benchmarks
+permalink: /benchmarks/
 title: "Benchmarks"
-layout: title-page
+layout: categories
 ---
 
 Page under construction.

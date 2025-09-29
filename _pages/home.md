@@ -13,21 +13,21 @@ feature_row:
     alt: "Hardware"
     title: "Hardware Landscape"
     excerpt: "Explore the landscape of hardware."
-    url: "/categories/hardware/"
+    url: "/hardware/"
     btn_class: "btn--primary"
     btn_label: "Explore Hardware"
   - image_path: /assets/images/open-clip-art-j9BIoxEpWKM-unsplash.jpg
     alt: "ML Models"
     title: "ML Models"
     excerpt: "Discover the ML models."
-    url: "/categories/models/"
+    url: "/models/"
     btn_class: "btn--primary"
     btn_label: "Explore Models"
-  - image_path: /assets/images/aliaksei-ramanouski-JZE1kXN7m_o-unsplash.jpg
+  - image_path: /assets/images/chris-liverani-dBI_My696Rk-unsplash.jpg
     alt: "Benchmarks"
     title: "Benchmarks"
     excerpt: "Investigate our benchmarks"
-    url: "/categories/benchmarks/"
+    url: "/benchmarks/"
     btn_class: "btn--primary"
     btn_label: "Explore Results"
 
@@ -35,6 +35,9 @@ feature_row:
 
 {% include feature_row %}    
 
+### Summary
 
+We aim to create a suite of next-generation benchmarks that track the fast-evolving landscape of AI, and measure
+the complex trade-offs across costs, accuracy, and performance on a range of state-of-the-art hardware. Our approach is informed by two selection maps (one for models and the other for systems), with a broad team with extensive expertise in AI research and practice– a combination that allows for rapid evolution of the benchmarks.
 
 

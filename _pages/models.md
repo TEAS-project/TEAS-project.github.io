@@ -1,7 +1,7 @@
 ---
-permalink: /categories/models
+permalink: /models/
 title: "Models"
-layout: title-page
+layout: categories
 ---
 
 Page under construction.
