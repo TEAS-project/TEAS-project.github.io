@@ -19,10 +19,10 @@ feature_row:
   - image_path: /assets/images/open-clip-art-j9BIoxEpWKM-unsplash.jpg
     alt: "ML Models"
     title: "ML Models"
-    excerpt: "Discover the ML models."
+    excerpt: "Discover ML models."
     url: "/models/"
     btn_class: "btn--primary"
-    btn_label: "Explore Models"
+    btn_label: "Explore ML Models"
   - image_path: /assets/images/chris-liverani-dBI_My696Rk-unsplash.jpg
     alt: "Benchmarks"
     title: "Benchmarks"
@@ -38,6 +38,6 @@ feature_row:
 ### Summary
 
 We aim to create a suite of next-generation benchmarks that track the fast-evolving landscape of AI, and measure
-the complex trade-offs across costs, accuracy, and performance on a range of state-of-the-art hardware. Our approach is informed by two selection maps (one for models and the other for systems), with a broad team with extensive expertise in AI research and practice– a combination that allows for rapid evolution of the benchmarks.
+the complex trade-offs across costs, accuracy, and performance on a range of state-of-the-art hardware. Our approach is informed by two selection maps (one for models and the other for systems), with a broad team with extensive expertise in AI research and practice – a combination that allows for rapid evolution of the benchmarks.
 
 
