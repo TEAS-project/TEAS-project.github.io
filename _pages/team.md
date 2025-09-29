@@ -4,6 +4,7 @@ title: "Team"
 layout: categories
 ---
 
+### Investigators
 - Edoardo Ponti
 - Nick Brown
 - Adrian Jackson
@@ -11,3 +12,8 @@ layout: categories
 - Wenda Li
 - Luo Mai
 - Aaron Zhoa
+
+### Project Team
+
+- James Richings
+- Yinsicheng Jiang
