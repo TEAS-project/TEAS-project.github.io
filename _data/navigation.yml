@@ -1,13 +1,15 @@
 main: 
   - title: "About"
     url: /about/
-  - title: "Categories"
     sublinks:
-    - title: "Hardware"
-      url: /categories/hardware
-    - title: "Models"
-      url: /categories/models
-    - title: "Benchmarks"
-      url: /categories/benchmarks
+    - title: "Mission"
+      url: /about/
+    - title: "Team"
+      url: /about/team
+    - title: "Advisory Panel"
+      url: /about/advisors
+
   - title: "Posts"
     url: /posts/
+  - title: "Events"
+    url: /events/
