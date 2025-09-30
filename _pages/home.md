@@ -35,9 +35,14 @@ feature_row:
 
 {% include feature_row %}    
 
-### Summary
 
-We aim to create a suite of next-generation benchmarks that track the fast-evolving landscape of AI, and measure
-the complex trade-offs across costs, accuracy, and performance on a range of state-of-the-art hardware. Our approach is informed by two selection maps (one for models and the other for systems), with a broad team with extensive expertise in AI research and practice – a combination that allows for rapid evolution of the benchmarks.
-
-
+<div style="text-align: left; display: grid; grid-template-columns: 1fr 0.1fr 1fr;">
+  <div>
+  We aim to create a suite of next-generation benchmarks that track the fast-evolving landscape of AI, and measure the complex trade-offs across costs, accuracy, and performance on a range of state-of-the-art hardware.
+  </div>
+  <div>
+  </div>
+  <div>
+  Our approach is informed by two selection maps (one for models and the other for systems), with a broad team with extensive expertise in AI research and practice – a combination that allows for rapid evolution of the benchmarks.
+  </div>
+</div>

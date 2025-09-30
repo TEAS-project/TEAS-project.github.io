@@ -4,4 +4,15 @@ title: "Benchmarks"
 layout: categories
 ---
 
-Page under construction.
+### Model Selection
+
+![image](/assets/diagrams/model_selection_map2.svg)
+
+### Benchmark selection
+
+![image](/assets/diagrams/benchmark_map.svg)
+
+
+### Benchmark implementation
+
+![image](/assets/diagrams/benchmark_impl.svg)
