@@ -11,7 +11,7 @@ layout: categories
 - Boris Grot (University of Edinburgh)
 - Wenda Li (University of Edinburgh)
 - Luo Mai (University of Edinburgh, Microsoft Research)
-- Aaron Zhao (University of Edinburgh)
+- Aaron Zhao (Imperial College London)
 
 ### Project Team
 

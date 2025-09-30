@@ -9,5 +9,3 @@ layout: categories
 - Experts in Machine learning and high performance computing.
 
 - Leaders from industry and academia. 
-
-- other important points...
