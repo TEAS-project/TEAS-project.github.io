@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-title: Tracking Evolving AI and Compute
+title: Tracking Evolving AI and Systems
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/alina-grubnyak-ZiQkhI7417A-unsplash.jpg
